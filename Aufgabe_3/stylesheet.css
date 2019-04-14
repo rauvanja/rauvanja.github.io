@@ -1,0 +1,66 @@
+/*stylesheet für daily news*/
+body{
+    background-color: #e6dbb6;
+    font-family: 'Verdana,bold';
+    font-size: 1,5em;
+}
+h1{
+    margin-bottom: 0em;
+    font-size: 2em;
+    color: #e6dbb6;
+    background-color: #1d63cc;
+    text-align: center;
+}
+h4{
+    margin-top: 0em;
+    padding-top: 0em;
+    font-size: 1em;
+    text-align: left;
+    color: #272626;
+}
+ul{
+    font-size: 1em;
+    font-family: 'Verdana';
+    color: #272626
+}
+h3{
+    color: #e6dbb6;
+    background-color: #1d63cc;
+    font-size: 1,5em;
+}
+p{
+    font-family: 'Verdana';
+    color: #272626;
+}
+section{
+    background-color: #e6dbb6;
+    width: 98%
+}
+article{
+    background-color: #a5eaf7;
+    width: 70%
+}
+#Furtwangen{
+    width: 30%;
+    border: #FFFFFF;
+    border-radius: 10%;
+    border: 0,5em;
+}
+#Schnee{
+    width: 30%;
+    border: #FFFFFF;
+    border-radius: 10%;
+    border: 0,5em;
+}
+#SchneeSchnee{
+    width: 30%;
+    border: #FFFFFF;
+    border-radius: 10%;
+    border: 0,5em;
+}
+footer{
+    background-color: #a5eaf7;
+    color: #272626;
+    font-family: 'Verdana,sans-serif';
+    
+}
