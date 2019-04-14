@@ -4,50 +4,63 @@ body{
     font-family: 'Verdana';
     font-size: 1,5em;
 }
+header{
+    background-color: #1d63cc;
+    margin: 0px;
+    padding: 0px;
+    border: 0px
+}
 h1{
     margin-bottom: 0em;
     font-size: 2em;
     color: #e6dbb6;
-    background-color: #1d63cc;
     text-align: center;
+    padding-top: 15px
 }
 h5{
     margin-bottom: 0em;
     font-size: 1em;
-    color: #1d63cc;
-    background-color: #e6dbb6;
     text-align: center;
+    color: #e6dbb6
 }
 ul{
-    font-size: 1em;
-    font-family: 'Verdana';
+    font-size: 0,5em;
+    float: left;
+    text-align: center;
+    font-family: 'Verdana'bold;
     color: #413f3f
 }
 h3{
     color: #e6dbb6;
     background-color: #1d63cc;
     font-size: 1,5em;
+    text-align: center;
     font-family: 'Verdana'bold;
 }
 h4{
     font-size: 1em;
     font-family: 'Verdana'bold;
-    text-align: left;
+    text-align: center;
     color: #413f3f
  
 }
 p{
     font-size: 1em;
     font-family: 'Verdana';
+    text-align: center;
     color: #413f3f;
 }
 article{
     background-color: #e6dbb6;
-    width: 98%
+    padding-left: 2em;
+    padding-right: 2em;
+    width: 100% 
 }
 section{
     background-color: #a5eaf7;
-    width: 98%
+    width: 85%
+    margin: 7em
+  
 }
 #Furtwangen{
     width: 30%;
