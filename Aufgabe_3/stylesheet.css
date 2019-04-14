@@ -16,7 +16,7 @@ h4{
     padding-top: 0em;
     font-size: 1em;
     text-align: left;
-    color: #272626;
+    color: #464545;
 }
 ul{
     font-size: 1em;
@@ -30,7 +30,7 @@ h3{
 }
 p{
     font-family: 'Verdana';
-    color: #272626;
+    color: #464545;
 }
 section{
     background-color: #e6dbb6;
@@ -60,7 +60,7 @@ article{
 }
 footer{
     background-color: #a5eaf7;
-    color: #272626;
+    color: #464545;
     font-family: 'Verdana,sans-serif';
     
 }
