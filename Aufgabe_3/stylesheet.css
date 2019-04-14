@@ -27,16 +27,17 @@ h3{
     color: #e6dbb6;
     background-color: #1d63cc;
     font-size: 1,5em;
+ 
 }
 p{
     font-family: 'Verdana';
     color: #464545;
 }
-article{
+section{
     background-color: #e6dbb6;
     width: 98%
 }
-section{
+article{
     background-color: #a5eaf7;
     width: 70%
 }
@@ -60,7 +61,7 @@ section{
 }
 footer{
     background-color: #a5eaf7;
-    color: #464545;
+    color: #272626;
     font-family: 'Verdana,sans-serif';
     
 }
