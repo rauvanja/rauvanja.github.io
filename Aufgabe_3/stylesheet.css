@@ -24,9 +24,7 @@ h5{
     color: #e6dbb6
 }
 ul{
-    font-size: 0,5em;
-    float: left;
-    text-align: center;
+    font-size: 1em;
     font-family: 'Verdana'bold;
     color: #413f3f
 }
@@ -52,14 +50,11 @@ p{
 }
 article{
     background-color: #e6dbb6;
-    padding-left: 2em;
-    padding-right: 2em;
     width: 100% 
 }
 section{
     background-color: #a5eaf7;
     width: 85%
-    margin: 7em
   
 }
 #Furtwangen{
@@ -67,18 +62,21 @@ section{
     border: #FFFFFF;
     border-radius: 5%;
     border: 0,5em;
+    float: center
 }
 #Schnee{
     width: 30%;
     border: #FFFFFF;
     border-radius: 5%;
     border: 0,5em;
+    float: center
 }
 #SchneeSchnee{
     width: 30%;
     border: #FFFFFF;
     border-radius: 5%;
     border: 0,5em;
+    float: center
 }
 footer{
     background-color: #a5eaf7;
