@@ -32,11 +32,11 @@ p{
     font-family: 'Verdana';
     color: #464545;
 }
-section{
+article{
     background-color: #e6dbb6;
     width: 98%
 }
-article{
+section{
     background-color: #a5eaf7;
     width: 70%
 }
