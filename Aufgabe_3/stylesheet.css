@@ -1,7 +1,7 @@
 /*stylesheet für SCHNEE.SCHNEEIGER.AMSCHNEEIGSTEN.*/
 body{
     background-color: #e6dbb6;
-    font-family: 'Verdana,bold';
+    font-family: 'Verdana';
     font-size: 1,5em;
 }
 h1{
@@ -19,25 +19,25 @@ h5{
     text-align: center;
 }
 ul{
-    font-size: 1,5em;
-    font-family: 'Verdan';
+    font-size: 1em;
+    font-family: 'Verdana';
     color: #413f3f
 }
 h3{
     color: #e6dbb6;
     background-color: #1d63cc;
-    font-size: 1em;
+    font-size: 1,5em;
+    font-family: 'Verdana'bold;
 }
 h4{
-    margin-top: 0em;
-    padding-top: 0em;
     font-size: 1em;
+    font-family: 'Verdana'bold;
     text-align: left;
     color: #413f3f
  
 }
 p{
-    font-size: 0,5em;
+    font-size: 1em;
     font-family: 'Verdana';
     color: #413f3f;
 }
