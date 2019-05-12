@@ -4,6 +4,12 @@ header{
     width: 110%
     }
 
+    li{
+      list-style-type: none;
+  }
+
+ 
+
 header{
     background-color: #1d63cc;
     margin: 1px;
@@ -16,11 +22,6 @@ body{
     font-family: 'Helvetica';
     font-size: 10pt;
 }
-
-li{
-    list-style-type: none;
-}
-
 
 h1{
     font-family: 'Helvetica';
@@ -48,18 +49,24 @@ h3{
     font-family: 'Verdana';
     font-style: oblique
 }  
-
-nav{
+  
+  nav{
+    
     font-family: 'Helvetica', sans-serif;
     font-size: 12pt;
     height: 2em;
     text-align: center;
     margin-left: 20em;
-    margin-bottom: 15em;
-    margin-right: 20em
-     
+    margin-bottom: 5em;
+    margin-right: 20em;
+    overflow:hidden;   
   }
   
+  nav:hover{
+  height:20em;
+  Transition: all 2s ease
+  }
+
   a:link {
     color: #e6dbb6
     
@@ -122,9 +129,6 @@ nav{
     display:  table-row;
     margin-right:20em;
    }
-
-
-} 
 
         img.schnee{
        width: 25em;
@@ -190,7 +194,153 @@ nav{
          position:static;
             text-shadow: 2px 2px 8px black;
     }
+
+  
+    @media screen and (max-width: 768px)
+    {
+    div.Box{
+     
+     width: 34em;
+     height: 32em;
+      margin:1em;
+      padding: 0em;
+      white-space:nowrap;
+      overflow: hidden;
+    }
     
+    main
+    {
+       width: 100%;
+       clear: right
+      
+    }
+    
+    footer
+    {
+       width:100%;
+       margin-top: 370em
+    
+    }
+    img.schnee{
+      width: 100%;
+      margin: 0%;
+      padding: 0%;
+      border-style: none;
+      clear: none;
+      overflow: none;
+       }
+       img.schnee:hover{
+        width: 100%;}‚
+    
+    aside.aside
+    {
+      width: 62em;
+     height: 32em;
+      margin:1em;
+      padding: 0em;
+      float: right;
+      white-space:nowrap;
+      overflow: hidden;
+    
+    }
+    div
+    {
+      width: 62em;
+     height: 32em;
+      margin:1em;
+      padding: 0em;
+      float: left;
+      white-space:nowrap;
+      overflow: hidden;
+    
+    }
+    img.schnee{
+      width: 100%;
+      margin: 0%;
+      padding: 0%;
+      border: 0,9em;
+      clear: none;
+      overflow: none;
+       }
+      
+    @media screen and (max-width: 600px)
+    {
+      
+    div.Box{
+     
+      width: 62em;
+      height: 32em;
+      margin:1em;
+      padding: 0em;
+      float: left;
+      clear:left;
+      white-space:nowrap;
+      overflow: hidden;
+    }
+    
+    main
+    {
+       width: 100%;
+       clear: left
+      
+    }
+    
+    footer
+    {
+       width:100%;
+       margin-top: 370em
+    
+    }
+    img.schnee{
+      width: 100%;
+      margin: 0%;
+      padding: 0%;
+      border: 0,9em;
+      clear: none;
+      overflow: none;
+       }
+       img.schnee:hover{
+        width: 100%;}‚
+    
+    aside.aside
+    {
+      width: 62em;
+     height: 32em;
+      margin:1em;
+      padding: 0em;
+      float: right;
+      white-space:nowrap;
+      overflow: hidden;
+    
+    }
+
+    div
+    {
+      width: 62em;
+     height: 32em;
+      margin:1em;
+      padding: 0em;
+      float: left;
+      white-space:nowrap;
+      overflow: hidden;
+    
+    }
+    img.schnee{
+      width: 100%;
+      margin: 0%;
+      padding: 0%;
+      border: 0,9em;
+      clear: none;
+      overflow: none;
+       }
+
+      footer{
+        margin-top:0em;
+      }
+    
+    }
+    
+       
     
        
           
